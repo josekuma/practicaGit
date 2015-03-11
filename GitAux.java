@@ -23,8 +23,4 @@ public class GitAux {
         
         System.out.println("josekuma");
     }
-public void testGitAux(){
-// metodo rama testing
-System.out.println("Metodo de testing");
-}
-}
+
